@@ -14,6 +14,7 @@
 
 ![screen](screenshots/rabbitmq_system_status.png)
 
+![screen](screenshots/rabbit_web.png)
 ---
 
 ### Задание 2. Отправка и получение сообщений
