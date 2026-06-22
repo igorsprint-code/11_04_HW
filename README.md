@@ -39,6 +39,16 @@ $ pip install pika
 
 ### Решение
 
+Демонстрация работы producer.py:
+
+![screen](screenshots/2-1.png)
+
+Демонстрация работы consumer.py:
+
+![screen](screenshots/2-2.png)
+
+
+
 ---
 
 ### Задание 3. Подготовка HA кластера
